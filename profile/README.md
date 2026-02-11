@@ -44,5 +44,5 @@ Firefly Research hosts projects that are **standalone tools and technologies** d
 ---
 
 <p align="center">
-  <sub>Made with ❤️ by the <b>Firefly</b> team — where curiosity meets code.</sub>
+  <sub>Made with ❤️ by <b>Firefly Software Solutions Inc.</b></sub>
 </p>
