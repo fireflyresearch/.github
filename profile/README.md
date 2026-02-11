@@ -14,7 +14,7 @@ _______   ____   ______ ____ _____ _______   ____ |  |__
 ```
 
 **Welcome to Firefly Research!**
-This is the experimental and research arm of the [Firefly](https://github.com/firefly-oss) ecosystem — a place for bold ideas, new tools, and frontier technology that pushes the boundaries of what's possible.
+This is the experimental and research arm of the [Firefly](https://github.com/firefly-oss) and [Firefly Framework](https://github.com/fireflyframework) ecosystem — a place for bold ideas, new tools, and frontier technology that pushes the boundaries of what's possible.
 
 ### What you'll find here
 
