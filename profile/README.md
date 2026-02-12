@@ -20,12 +20,12 @@ This is the experimental and research arm of the [Firefly](https://github.com/fi
 
 | Project | Description | Language |
 |---------|-------------|----------|
-| [FlyDB](https://github.com/firefly-research/flydb) | Production-ready SQL database engine built from scratch in pure Go — single binary, zero dependencies | Go |
-| [FlyDB4J](https://github.com/firefly-research/flydb4j) | JDBC, Spring Data JDBC, and R2DBC drivers for FlyDB | Java |
-| [PyFlyDB](https://github.com/firefly-research/pyflydb) | DB-API 2.0 compliant Python driver for FlyDB with native binary protocol | Python |
-| [FlyMQ](https://github.com/firefly-research/flymq) | Distributed message queue — high throughput, low latency, persistent storage, consumer groups | Go |
-| [FlyBrowser](https://github.com/firefly-research/flybrowser) | LLM-powered browser automation — control Playwright with plain English instead of brittle selectors | Python |
-| [FlyLang](https://github.com/firefly-research/flylang) | Modern programming language that compiles to JVM bytecode with seamless Java interop | Java |
+| [FlyDB](https://github.com/fireflyresearch/flydb) | Production-ready SQL database engine built from scratch in pure Go — single binary, zero dependencies | Go |
+| [FlyDB4J](https://github.com/fireflyresearch/flydb4j) | JDBC, Spring Data JDBC, and R2DBC drivers for FlyDB | Java |
+| [PyFlyDB](https://github.com/fireflyresearch/pyflydb) | DB-API 2.0 compliant Python driver for FlyDB with native binary protocol | Python |
+| [FlyMQ](https://github.com/fireflyresearch/flymq) | Distributed message queue — high throughput, low latency, persistent storage, consumer groups | Go |
+| [FlyBrowser](https://github.com/fireflyresearch/flybrowser) | LLM-powered browser automation — control Playwright with plain English instead of brittle selectors | Python |
+| [FlyLang](https://github.com/fireflyresearch/flylang) | Modern programming language that compiles to JVM bytecode with seamless Java interop | Java |
 
 ### Relationship to Firefly OSS
 
@@ -33,7 +33,7 @@ Firefly Research hosts projects that are **standalone tools and technologies** d
 
 - **[firefly-oss](https://github.com/firefly-oss)** — The core banking platform (accounts, payments, lending, etc.)
 - **[fireflyframework](https://github.com/fireflyframework)** — The underlying framework and shared foundations
-- **firefly-research** (you are here) — Experimental projects and developer tools
+- **fireflyresearch** (you are here) — Experimental projects and developer tools
 
 ### Get Involved
 
